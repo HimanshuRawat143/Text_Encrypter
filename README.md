@@ -1,4 +1,4 @@
-# This is the text file encryption using ASCII properties using C !
+# This is the text file encryption using ASCII properties in C !
 # Author - Himanshu Rawat
 # e-mail - himu35311@gmail.com
 # Instagram - @himansu_rawat
